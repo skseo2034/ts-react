@@ -1,4 +1,4 @@
-# ts-react
+# ts-react2
 
 ## 기본환경 설정.
     1. lecture 폴더 생성
